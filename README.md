@@ -1,4 +1,4 @@
-# TokenLedger — Landing Page
+# Brevo — Landing Page
 
 Static landing page for an **AI inference cost optimization (LLM FinOps)** startup — cost attribution, eval-safe model routing, semantic caching, budgets. No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "TokenLedger",
-  domain: "tokenledger.example.com",
-  contactEmail: "hello@tokenledger.example.com"
+  companyName: "Brevo",
+  domain: "usebrevo.xyz",
+  contactEmail: "hello@usebrevo.xyz"
 };
 ```
 
